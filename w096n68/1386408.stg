@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac -95.858333 68.626111 21.27 180
+OBJECT_SHARED Models/Communications/radome-16m.xml -95.8706 68.644072 57.42 0
+OBJECT_SHARED Models/Communications/radome-16m.xml -95.869972 68.644009 57.5 0
+OBJECT_SHARED Models/Airport/EIDW_Radar.ac -95.869935 68.644603 56.48 75
